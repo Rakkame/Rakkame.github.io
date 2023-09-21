@@ -1,0 +1,25 @@
+a{
+    color: black;
+    font-weight: 700;
+    text-decoration: none;
+}
+td{
+    text-align: center;
+}
+img{
+    width: 100px;
+    margin: auto;
+    display: block;
+    transition: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out;
+}
+img:hover{
+    width: 200px;
+    transition: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out;
+}
+p{
+    background-color: rgba(0, 0, 0, 0.155);
+}
